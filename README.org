@@ -1,7 +1,7 @@
 * Quilombist
 
 Quilombist blog. https://quilombist.github.io/
-Source code at: https://github.com/quilombist/blog_source
+Source code at: https://github.com/quilombist/blog_quilombist
 
 ** License MIT
 
