@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Quilombist</title><link href="http://quilombist.github.io/" rel="alternate"></link><link href="http://quilombist.github.io/feeds/miscelaneous.atom.xml" rel="self"></link><id>http://quilombist.github.io/</id><updated>2014-11-24T12:40:00+01:00</updated><entry><title>Hello World</title><link href="http://quilombist.github.io/hello-world.html" rel="alternate"></link><updated>2014-11-24T12:40:00+01:00</updated><author><name>Marcwebbie</name></author><id>tag:quilombist.github.io,2014-11-19:hello-world.html</id><summary type="html">&lt;p&gt;&lt;img alt="Hello" src="http://quilombist.github.io/images/articles/hello.jpg" /&gt;&lt;/p&gt;
+&lt;p&gt;This blog is about tecnology and pan-Africanism. Even better this blog is about&amp;nbsp;quilombism.&lt;/p&gt;
+&lt;div class="section" id="what-is-pan-africanism"&gt;
+&lt;h2&gt;What is&amp;nbsp;Pan-Africanism?&lt;/h2&gt;
+&lt;p&gt;Pan-Africanism is a movement that emerged within the diaspora, an organizing political tool that was designed to bring people of African descent together to fight for their rights, whether under colonialism in Africa and the Caribbean or under discrimination in the United States, Brazil or other countries, and to promote the unification of black people, especially those living on the continent of&amp;nbsp;Africa.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-about-quilombism"&gt;
+&lt;h2&gt;What about&amp;nbsp;Quilombism?&lt;/h2&gt;
+&lt;p&gt;Quilombism is pan-Africanist political system written by Abdias&amp;nbsp;Nascimento.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="you-said-technology-right"&gt;
+&lt;h2&gt;You said technology&amp;nbsp;right?&lt;/h2&gt;
+&lt;p&gt;Yes, I am a software developer.&amp;nbsp;;)&lt;/p&gt;
+&lt;p&gt;I believe that technology can be an efficient tool for&amp;nbsp;pan-Africanism.&lt;/p&gt;
+&lt;/div&gt;
+</summary><category term="helloworld"></category><category term="welcome"></category></entry></feed>
