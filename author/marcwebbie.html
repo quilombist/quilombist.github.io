@@ -5,16 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Quilombist, Technology and pan-africanism together">
 
-    <link rel="alternate"  href="http://quilombist.github.io/feeds/all.atom.xml" type="application/atom+xml" title="Quilombist Full Atom Feed"/>
+      <link rel="alternate"  href="http://quilombist.github.io/feeds/all.atom.xml" type="application/atom+xml" title="Quilombist Full Atom Feed"/>
 
-    <title>Marcwebbie author // Quilombist // Technology and pan-africanism together</title>
+      <title>Marcwebbie author // Quilombist // Technology and pan-africanism together</title>
 
-    <link href="//localhost:8000/images/favicon.ico" rel="shortcut icon">
+      <link href="http://localhost:8000/images/favicon.ico" rel="shortcut icon">
 
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.3.0/pure-min.css">
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.1.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="http://quilombist.github.io/theme/css/pure.css">
-    <link rel="stylesheet" href="http://quilombist.github.io/theme/css/app.css">
+    <link rel="stylesheet" href="http://quilombist.github.io/theme/css/main.css">
 
     <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
   </head>
@@ -22,8 +22,7 @@
   <body>
     <div class="pure-g-r" id="layout">
       <div class="sidebar pure-u">
-        <!--<div class="cover-img" style="background-image: url('')">  -->
-        <div class="cover-img" style="background-image: url('/images/carmichael.jpg')">
+        <div class="cover-img" style="background-image: url('http://localhost:8000/images/cover.jpg')">
           <div class="cover-body">
             <header class="header">
               <hgroup>
@@ -31,12 +30,12 @@
                 <h1 class="brand-main"><a href="http://quilombist.github.io">Quilombist</a></h1>
                 <p class="tagline">Technology and pan-africanism together</p>
                 <p class="social">
-                  <a href="https://twitter.com/marcwebbie">
-                    <i class="fa fa-twitter fa-3x"></i>
-                  </a>
-                  <a href="//github.com/marcwebbie">
-                    <i class="fa fa-github fa-3x"></i>
-                  </a>
+                    <a href="https://twitter.com/marcwebbie">
+                      <i class="fa fa-twitter fa-3x"></i>
+                    </a>
+                    <a href="//github.com/marcwebbie">
+                      <i class="fa fa-github fa-3x"></i>
+                    </a>
                 </p>
               </hgroup>
             </header>
@@ -112,24 +111,24 @@ Posts by 'Marcwebbie'                </h1>
 
       // Show or hide the sticky footer button
       $(window).scroll(function() {
-        if ($(this).scrollTop() > 200) {
-          $top.fadeIn(200);
-        } else {
-          $top.fadeOut(200);
-        }
+          if ($(this).scrollTop() > 200) {
+              $top.fadeIn(200);
+          } else {
+              $top.fadeOut(200);
+          }
       });
 
       // Animate the scroll to top
       $top.click(function(event) {
-        event.preventDefault();
-        $('html, body').animate({scrollTop: 0}, 300);
+          event.preventDefault();
+          $('html, body').animate({scrollTop: 0}, 300);
       })
 
-      // Makes sure that the href="#" attached to the <a> elements
-      // don't scroll you back up the page.
-      $('body').on('click', 'a[href="#"]', function(event) {
-        event.preventDefault();
-      });
+          // Makes sure that the href="#" attached to the <a> elements
+          // don't scroll you back up the page.
+          $('body').on('click', 'a[href="#"]', function(event) {
+              event.preventDefault();
+          });
     </script>
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
